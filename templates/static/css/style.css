@@ -1,0 +1,16 @@
+/* Add your custom styles here */
+body {
+  background-color: #f1f1f1;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  color: #333;
+}
+
+p {
+  color: #666;
+}
+
